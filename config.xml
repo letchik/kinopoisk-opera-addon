@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="https://addons.opera.com/addons/extensions/details/" version="1.0">
+  <name>Movie Rate</name>
+  <icon src="icons/rater.png"/>
+	<access origin="http://s.kinopoisk.ru" subdomains="false"/>
+	<access origin="http://imdbapi.com" subdomains="false"/>
+  <author email="ktulhu.rlieh@gmail.com">letchik</author>
+  <description xml:lang="ru">Проверка связи</description>
+</widget>
